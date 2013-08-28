@@ -8,3 +8,8 @@ Template:       bbcperson
 */
 
 @import url("../bbcperson/style.css");
+
+h1 {
+	font-size: 43px;
+	font-family: sans-serif;
+}
