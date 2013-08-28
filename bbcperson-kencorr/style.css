@@ -1,0 +1,10 @@
+/*
+Theme Name:     Child Theme - Ken Corr
+Theme URI:      http://kenacorr.com/
+Description:    A child theme for Ken Corr based on the Brentwood Baptist Individual theme.
+Author:         Brentwood Baptist Church
+Author URI:     http://brentwoodbaptist.com
+Template:       bbcperson
+*/
+
+@import url("../bbcperson/style.css");
